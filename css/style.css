@@ -1,0 +1,28 @@
+body{
+    margin: 2%;
+    background-color: #cc9afaa2;
+}
+#bodyTwo{
+    background-color: #f0f8ff;
+    padding: 2%;
+    border-radius: 5px;
+}
+nav{
+    border: 0px red solid;
+}
+ul{
+    margin-right: 3%;
+}
+li{
+    border: 0px red solid;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+.nav-li {
+    text-decoration: none;
+}
+#title-PageHome{
+    text-align: center;
+    margin-top: 5%;
+}
